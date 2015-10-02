@@ -1,4 +1,4 @@
-package test.com.alexaitken.gildedrose;
+package com.alexaitken.gildedrose;
 
 import static org.junit.Assert.*;
 
